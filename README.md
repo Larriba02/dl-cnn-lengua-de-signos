@@ -100,6 +100,7 @@ Pensado para Google Colab con GPU. Requiere `tensorflow`, `kagglehub` (con cuent
 
 ```
 asl_cnn.ipynb   notebook completo: análisis → DS-A/DS-B → configuraciones → evaluación → ablaciones → fotos propias
+memoria.pdf     memoria del proyecto
 figures/        figuras exportadas
 ```
 
